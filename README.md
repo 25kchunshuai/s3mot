@@ -88,7 +88,7 @@ The dataset must be organized as follows:
 
 ```
 <DATASET_ROOT>
-    └── KITTI3D
+    └── KITTI
         ├── testing
         │   ├── calib
         |   │   ├── 000000.txt
