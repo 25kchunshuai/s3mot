@@ -7,7 +7,7 @@ We will release the source code and model weights soon
 <img width="100%" src="media/demo_s3mot_kitti.gif"/>
 </a>
 
-Official [PyTorch](https://pytorch.org/) implementation of _S3MOT_: **Monocular 3D Object Tracking with Selective State Space Model**,
+Official [PyTorch](https://pytorch.org/) implementation of _S3MOT_: **Monocular 3D Object Tracking with Selective State Space Model**
 
 ## Installation
 To setup your environment, type in a terminal (only tested in Ubuntu 20.04):
