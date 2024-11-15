@@ -149,7 +149,7 @@ TBD
 | OC-SORT        | Camera         | 2D       | 76.54     | 77.25     | 76.39     | 80.64      | 80.33      | 87.01     | **90.28** | **793**   |
 | S3MOT (Ours)   | Camera         | 3D       | **76.86** | **76.95** | **77.41** | **83.79**  | **81.01**  | **87.87** | 86.93     | 31        |
 
-<img src="media/benchmark_result.png" alt="Performance comparison" width="50%"/>
+<img src="media/benchmark_result.png" alt="Performance comparison" width="70%"/>
 
 ## License
 The source code is released under the [MIT license](LICENSE.md). We note that some code in this repository is adapted from the following repositories:
